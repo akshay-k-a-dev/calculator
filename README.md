@@ -9,7 +9,7 @@ Welcome to my boredom-buster project: a calculator! It’s got all the usual sus
 
 ## Where’s the Fun?
 
-Get your calculator kicks here: [Play with it live](https://www.akshay-k-a-dev.github.io/calculator)
+Get your calculator kicks here: [Play with it live](https://akshay-k-a-dev.github.io/calculator)
 
 ## Cool Features
 
